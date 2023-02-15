@@ -3,7 +3,7 @@ name: MSDO ubuntu-latest
 on:
   push:
     branches:
-      - master
+      - main
       
 permissions: write-all
 
